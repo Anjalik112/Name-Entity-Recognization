@@ -1,0 +1,10 @@
+T1	ADR 85 89	pain
+T2	ADR 133 141	headache
+T3	ADR 214 230	abdominal cramps
+T4	ADR 244 252	diarrhea
+T5	Symptom 280 283	gas
+T6	Symptom 285 293	gurgling
+T7	Symptom 295 308	mild cramping
+T8	ADR 360 372	bad headache
+T9	ADR 388 394	nausea
+T10	Symptom 400 409	heartburn

@@ -1,0 +1,6 @@
+T1	ADR 0 22	Random severe cramping
+T2	ADR 24 32	diarrhea
+T3	ADR 34 65	increased menstrual blood flow.
+T4	Drug 90 99	Arthrotec
+T5	Symptom 124 144	urinary incontinence
+T6	Symptom 166 207	enough to be disruptive and require a pad

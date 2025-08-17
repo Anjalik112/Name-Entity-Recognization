@@ -1,0 +1,9 @@
+T1	ADR 0 16	Vaginal bleeding
+T2	Symptom 53 62	headaches
+T3	ADR 64 73	neck pain
+T4	Symptom 74 82	bloating
+T5	Symptom 87 98	weight gain
+T6	ADR 133 143	lower back
+T7	Drug 263 269	Bextra
+T8	Drug 273 282	Neurontin
+T9	Drug 313 318	advil

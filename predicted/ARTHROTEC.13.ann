@@ -1,0 +1,8 @@
+T1	Disease 0 15	NSAID gastritis
+T2	Symptom 17 23	severe
+T3	Symptom 24 37	stomach upset
+T4	Symptom 65 77	full feeling
+T5	Symptom 84 97	poor appetite
+T6	ADR 99 121	increased menstruation
+T7	ADR 168 184	menstrual cramps
+T8	ADR 209 225	vaginal bleeding

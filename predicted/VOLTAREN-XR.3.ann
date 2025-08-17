@@ -1,0 +1,6 @@
+T1	Drug 50 58	Voltaren
+T2	ADR 207 215	diarrhea
+T3	ADR 401 417	chest discomfort
+T4	Symptom 422 446	upper abdominal pressure
+T5	Disease 604 620	gastric distress
+T6	Drug 676 684	prilosec

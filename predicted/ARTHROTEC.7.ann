@@ -1,0 +1,6 @@
+T1	ADR 17 45	severe sudden onset headache
+T2	Disease 91 93	BP
+T3	Symptom 119 124	pulse
+T4	Drug 168 177	clonidine
+T5	ADR 410 418	problems
+T6	Symptom 548 559	tachycardia

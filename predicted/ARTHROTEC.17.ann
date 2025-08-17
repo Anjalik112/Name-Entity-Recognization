@@ -1,0 +1,11 @@
+T1	ADR 74 88	abdominal pain
+T2	ADR 221 241	lower abdominal pain
+T3	Disease 243 252	i was put
+T4	Disease 249 260	put on this
+T5	Drug 312 317	Advil
+T6	Disease 400 408	GI bleed
+T7	Disease 576 582	anemia
+T8	Disease 594 607	gastric bleed
+T9	ADR 674 679	dizzy
+T10	Symptom 684 696	light headed
+T11	Symptom 711 722	acidic bile

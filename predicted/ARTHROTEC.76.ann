@@ -1,0 +1,8 @@
+T1	ADR 0 8	swelling
+T2	ADR 10 18	bloating
+T3	ADR 20 38	increased appetite
+T4	ADR 40 61	empty stomach feeling
+T5	ADR 62 65	dry
+T6	ADR 66 77	itchy skin.
+T7	Disease 228 270	arthritis, bone enhancement/elasticity etc
+T8	ADR 299 303	pain

@@ -1,0 +1,11 @@
+T1	ADR 0 14	abdominal pain
+T2	ADR 16 44	constant soreness in abdomen
+T3	ADR 46 54	headache
+T4	Symptom 56 104	general stomach upset feeling that won't go away
+T5	Symptom 105 127	before or after eating
+T6	Drug 143 151	Celebrex
+T7	Drug 176 181	Vioxx
+T8	Drug 188 194	Lodine
+T9	Drug 204 213	Arthrotec
+T10	Disease 232 248	knee replacement
+T11	ADR 299 312	stomach pains

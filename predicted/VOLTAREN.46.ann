@@ -1,0 +1,11 @@
+T1	ADR 26 51	edema of fingers and face
+T2	Symptom 98 117	shortness of breath
+T3	Symptom 129 139	crabbiness
+T4	Symptom 144 152	cramping
+T5	Symptom 175 183	spotting
+T6	ADR 207 213	period
+T7	Drug 226 234	Voltaren
+T8	ADR 332 336	pain
+T9	Symptom 507 514	swollen
+T10	Symptom 524 539	short of breath
+T11	Symptom 554 561	bloated

@@ -1,0 +1,9 @@
+T1	ADR 7 25	abdominal cramping
+T2	ADR 27 35	sweating
+T3	ADR 37 50	period cramps
+T4	ADR 52 68	vaginal bleeding
+T5	ADR 70 78	diarrhea
+T6	Symptom 80 91	acid reflux
+T7	Symptom 93 102	dry mouth
+T8	Symptom 130 138	migraine
+T9	ADR 148 152	pain

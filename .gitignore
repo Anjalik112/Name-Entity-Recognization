@@ -1,0 +1,25 @@
+# --- Python cache ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+*.log
+
+# --- Virtual Environments ---
+venv/
+.venv/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+*.ipynb_checkpoint
+
+# --- Environment & Secrets ---
+.env
+*.key
+*.pem
+
+# --- System Files ---
+.DS_Store
+Thumbs.db

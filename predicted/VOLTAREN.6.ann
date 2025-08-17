@@ -1,0 +1,5 @@
+T1	Symptom 180 184	numb
+T2	Symptom 212 224	light headed
+T3	Drug 327 335	voltaren
+T4	Disease 367 379	inflammation
+T5	ADR 408 413	panic

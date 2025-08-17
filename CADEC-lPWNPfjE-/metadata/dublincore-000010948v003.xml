@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dcterms:dc xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ https://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd">
+  <dc:title>CADEC</dc:title>
+  <dc:creator>Sarvnaz Karimi</dc:creator>
+  <dc:subject>Natural language processing</dc:subject>
+  <dc:subject>Applications in health</dc:subject>
+  <dc:description>CSIRO Adverse Drug Event Corpus (Cadec) is a rich annotated corpus of medical forum posts on patient reported Adverse Drug Events (ADEs). This corpus is useful for those studies in the area of information extraction, or more generically text mining, from social media to detect possible adverse drug reactions from direct patient reports.</dc:description>
+  <dc:publisher>CSIRO</dc:publisher>
+  <dc:contributor>Alejandro Metke Jimenez</dc:contributor>
+  <dc:contributor>Madonna Kemp</dc:contributor>
+  <dc:contributor>Chen Wang</dc:contributor>
+  <dc:date>2016-04-15</dc:date>
+  <dc:type />
+  <dc:format />
+  <dc:identifier>https://doi.org/10.4225/08/570FB102BDAD2</dc:identifier>
+  <dc:language />
+  <dcterms:temporal xsi:type="dcterms:Period">start=2001-08-18; end=2013-10-18</dcterms:temporal>
+  <dc:rights />
+</dcterms:dc>

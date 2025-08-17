@@ -1,0 +1,5 @@
+T1	ADR 22 39	lower pelvic pain
+T2	ADR 41 60	Uterus contractions
+T3	Symptom 62 75	Bloody vagina
+T4	ADR 99 111	gastric pain
+T5	Disease 228 234	uterus

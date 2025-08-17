@@ -1,0 +1,16 @@
+T1	Drug 0 9	Dizziness
+T2	Symptom 11 19	sickness
+T3	Symptom 21 32	stomach gas
+T4	Symptom 34 80	feel like a bubble of air is stuck in my chest
+T5	Symptom 145 157	hunger pangs
+T6	Drug 293 303	co-codamol
+T7	Disease 311 323	fibromyalgia
+T8	ADR 403 418	severe hip pain
+T9	Drug 515 531	anti-inflamatory
+T10	Drug 566 575	cortozone
+T11	Symptom 665 673	dreadful
+T12	Symptom 739 751	falling over
+T13	Symptom 769 781	light headed
+T14	ADR 798 813	waves of nausea
+T15	Symptom 842 848	clammy
+T16	Symptom 879 897	permanent hangover
